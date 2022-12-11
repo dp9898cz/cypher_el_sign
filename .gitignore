@@ -1,0 +1,7 @@
+venv
+.idea
+PrivateKey.priv
+PublicKey.pub
+podpis.sign
+test.txt
+podpis.zip
